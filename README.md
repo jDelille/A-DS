@@ -1,4 +1,3 @@
-# A-DS
-Algorithms &amp; Data Structures
+# Algorithms &amp; Data Structures
 
-A collection of the algorithm and data structure problems I've solved.
+#### A collection of the algorithm and data structure problems I've solved.
